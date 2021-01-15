@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#Nissan.ipynb
+#Nissan.py
 
 
 import keras
